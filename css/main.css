@@ -1,0 +1,48 @@
+
+body{color: #D0AE50}
+
+#main   {
+    
+    background-color: #1e1e1e;
+    background-size: 100%;  
+    width: 80%;  
+}
+
+#navbar {
+    
+    background-color: #1e1e1e;
+    border-radius:0;
+    
+}
+
+#row    { 
+    
+    padding: 3%;
+    background-color: #d1c9a9;
+    background-size: 100%;
+    color: #1e1e1e;
+
+}
+
+#row2   { 
+    
+    background-color: #d1c9a9;
+    background-size: 100%;
+    color: #1e1e1e;
+    padding: 1.5%
+
+}
+
+
+#pictext{
+    
+    padding: 10%;
+    
+}
+
+#footer {
+
+    background-color: #d1c9a9;
+    margin-top: 2%;
+}
+
